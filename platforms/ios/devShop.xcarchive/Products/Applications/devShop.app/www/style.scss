@@ -456,8 +456,8 @@ th {
 
 #helpLink {
   right: 0;
-  margin-left: 5px;
-  margin-left: env(safe-area-inset-right);
+  margin-right: 5px;
+  margin-right: env(safe-area-inset-right);
 }
 
 .story-detail {
