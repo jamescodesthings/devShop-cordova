@@ -92,6 +92,7 @@
         <preference name="MediaPlaybackAllowsAirPlay" value="true"/>
         <preference name="BackupWebStorage" value="cloud"/>
         <preference name="ScrollEnabled" value="true"/>
+        <preference name="DisallowOverscroll" value="true" />
         <preference name="CordovaWebViewEngine" value="CDVWKWebViewEngine"/>
         <config-file parent="UIStatusBarHidden" platform="ios" target="*-Info.plist">
             <true/>

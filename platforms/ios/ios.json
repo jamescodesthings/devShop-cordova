@@ -42,6 +42,22 @@
             }
           ]
         }
+      },
+      "*-Info.plist": {
+        "parents": {
+          "UIStatusBarHidden": [
+            {
+              "xml": "<true />",
+              "count": 6
+            }
+          ],
+          "UIViewControllerBasedStatusBarAppearance": [
+            {
+              "xml": "<false />",
+              "count": 6
+            }
+          ]
+        }
       }
     }
   },
